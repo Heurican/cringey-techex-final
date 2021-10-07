@@ -1,0 +1,38 @@
+body {
+  background-color:#124e60;
+}
+
+img{
+  border: 3px solid;
+  border-color: rebeccapurple;
+  border-radius: 5px;
+}
+a, p{
+  color: white;
+  font-family: 'PT Sans', sans-serif;
+}
+h1 {
+  color: white;
+}
+
+
+.line {
+  background-color: #BAAABF;
+}
+
+.card-text {
+  font-family: "Roboto Slab", monospace;
+  text-decoration: solid underline rebeccapurple 2px;
+}
+
+.bar {
+  background: url(stalwart-valkyrie.jpg) no-repeat;
+  padding: 100px;
+  float: center;
+}
+
+.credit-text {
+  font-family: "Oswald", Light 300, sans-serif;
+  text-decoration: solid white underlined 2px;
+  font-size: 10px
+}
