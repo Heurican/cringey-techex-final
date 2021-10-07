@@ -28,7 +28,7 @@ h1 {
 .bar {
   background: url(stalwart-valkyrie.jpg) no-repeat;
   padding: 100px;
-  float: center;
+  text-align: center;
 }
 
 .credit-text {
